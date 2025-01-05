@@ -1,3 +1,4 @@
+# [Click here to play!](https://assembly-endgame-hangman.vercel.app/)
 
 # Assembly Endgame
 
